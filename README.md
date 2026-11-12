@@ -134,7 +134,15 @@ Registry records are provider-reported. Public-web findings are unverified leads
 - [Sample report: someform Studio GmbH](examples/sample_report_2.md)
 - [Deliverable status](docs/deliverables.md)
 
-**Slides PDF:** outstanding. **Workflow screenshots:** outstanding; no authentic screenshots were available in this repository. **Demo recording:** outstanding; no recording URL is available yet.
+### Presentation and live demonstration
+
+- [Final architecture presentation (PDF)](presentation/project3_slides.pdf)
+- [Recorded CompanyScope demo (MP4)](CompanyScope_Demo.mp4)
+- [n8n workflow screenshot](companyscope_n8n_workflow.png)
+- [CompanyScope research form](companyscope_research_form.png)
+- [Generated corporate report](companyscope_report.png)
+
+The demo shows the CompanyScope research process from form submission to generated report. The presentation is designed for a six-minute session including a live demonstration.
 
 ## Repository map
 
