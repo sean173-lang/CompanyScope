@@ -7,13 +7,14 @@
 - Architecture diagram and provider/RAG notes.
 - Three proposed GTM sprints with goals, buyers, channels, deliverables and numerical success metrics.
 - Two sanitized Markdown examples copied from successful executions; source URLs and limitations are retained.
+- Authentic screenshots of the CompanyScope form, generated report and n8n workflow.
+- Six-slide presentation PDF.
+- Publicly accessible 59-second demo recording, linked from the README.
 - Setup and execution instructions in the root README.
-- Six-minute demo script.
+- Six-minute demo script including a live demonstration segment.
 
-## Outstanding
+## Remaining presentation notes
 
-- Presentation slides exported as PDF.
-- Authentic screenshots of the live n8n workflow, CompanyScope input form and styled result page.
-- Demo recording and recording URL.
+The demo video is shorter than the six-minute presentation. It supplements the script; the live demonstration segment should be presented during the six-minute talk. No additional deliverable is currently identified as missing from this checklist.
 
-These items are not represented as complete because no final files or recording were present in the source repository.
+The presentation is stored at `presentation/project3_slides.pdf`. The root-level `project3_slides.pdf` is retained as a compatibility copy for existing links.

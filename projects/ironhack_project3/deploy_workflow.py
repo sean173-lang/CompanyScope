@@ -11,7 +11,7 @@ import stat
 from pathlib import Path
 
 import requests
-from dotenv import dotenv_values, load_dotenv
+from dotenv import load_dotenv
 
 from build_workflow import build, write_sanitized
 
